@@ -1,0 +1,59 @@
+{
+  "patient_id": "P001",
+  "age": 68,
+  "sex": "Male",
+
+  "diagnoses": [
+    {
+      "name": "Type 2 Diabetes"
+    },
+    {
+      "name": "Chronic Kidney Disease",
+      "stage": "Stage 3b"
+    }
+  ],
+
+  "medications": [
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "Twice daily"
+    }
+  ],
+
+  "labs": {
+    "eGFR": {
+      "value": 35,
+      "unit": "mL/min/1.73m²",
+      "recorded_at": "2026-07-01"
+    },
+    "HbA1c": {
+      "value": 8.4,
+      "unit": "%",
+      "recorded_at": "2026-07-01"
+    },
+    "Potassium": {
+      "value": 5.1,
+      "unit": "mmol/L",
+      "recorded_at": "2026-07-01"
+    }
+  },
+
+  "allergies": [],
+
+  "history": [
+    "Hypertension"
+  ],
+
+  "symptoms": [
+    "Fatigue"
+  ],
+
+  "vitals": {
+    "weight_kg": 78,
+    "blood_pressure": {
+      "systolic": 150,
+      "diastolic": 92
+    }
+  }
+}

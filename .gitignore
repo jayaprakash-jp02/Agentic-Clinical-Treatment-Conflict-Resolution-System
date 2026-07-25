@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# VS Code Settings
+.vscode/
+
+# Logs
+logs/
+
+# Output Files
+data/outputs/
+
+# FAISS Indexes
+*.faiss
+*.index
+
+# Python Cache
+.pytest_cache/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+processed/

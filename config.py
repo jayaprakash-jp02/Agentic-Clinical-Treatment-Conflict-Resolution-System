@@ -1,0 +1,5 @@
+OLLAMA_MODEL = "qwen2.5:7b"
+
+MAX_ATTEMPTS = 2
+
+TEMPERATURE = 0
